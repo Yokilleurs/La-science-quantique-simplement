@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "Gothic Century";
+    src: url("CenturyGothic.ttf")
+  }
+
+body {
+
+        background-color: rgb(35,39,46);
+        font-size: 20pt;
+        font-family: "Gothic Century", serif;
+        color: rgb(180, 180, 180);
+        line-height: 23pt;
+        padding-left: 5pt;
+        padding-right: 5pt;
+        padding-top: 5pt;
+      }
+      
+      
+      h1 {
+        font-weight: bold;
+        line-height: 55pt;
+        font-family: "Gothic Century", serif;
+      }
+      
+      
+      p.subheader {
+        font-weight: bold;
+        color: #593d87;
+        font-family: "Gothic Century", serif;
+      }
+      
+      
+      img {
+        padding: 3pt;
+        float: right;
+        font-family: "Gothic Century", serif;
+      }
+      
+      
+      a {
+        text-decoration: none;
+        font-family: "Gothic Century", serif;
+      }
+      
+      
+      a:link, a:visited {
+        color: #8094d6;
+        font-family: "Gothic Century", serif;
+      }
+      
+      
+      a:hover, a:active {
+        color: #FF9933;
+        font-family: "Gothic Century", serif;
+      }
+      
+      
+      div.footer {
+        font-size: 15pt;
+        font-family: "Gothic Century", serif;
+        font-style: italic;
+        line-height: 19pt;
+        text-align: center;
+        padding-top: 45pt;
+      }
